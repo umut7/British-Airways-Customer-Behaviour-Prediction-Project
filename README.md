@@ -1,4 +1,4 @@
-Machine Learning Model for Predictive Classification
+# Machine Learning Model for Predictive Classification
 
 This project involves building a predictive model using Random Forest to classify data based on specific features. The dataset includes various parameters such as sales channels, trip types, flight duration, and booking origins.
 
